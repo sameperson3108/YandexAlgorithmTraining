@@ -32,9 +32,6 @@ public class Second {
                     System.out.println(x2);
                     System.out.println(x1);
                 }
-
-
-
             }
         }
 
