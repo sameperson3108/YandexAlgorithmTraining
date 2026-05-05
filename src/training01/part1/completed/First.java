@@ -1,4 +1,4 @@
-package training01.part1;
+package training01.part1.completed;
 
 import java.util.*;
 
